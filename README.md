@@ -5,9 +5,6 @@ first installs the necessary packages such as openai, pyngrok, and line-bot-sdk.
 The code also starts a connection to ngrok and creates a webhook for the LINE messaging API. <br><br>
 When a message is received by the chatbot, it uses the OpenAI API to generate a response to the message and sends the response back to the user via the LINE messaging API.</h4>
 <h3>Run Screen </h3>
-<tr>
-  <td>1</td>
-  <td>2</td>
-</tr>
-<img width="400" src="run screen/run screen2.jpg">
-<img width="400" src="run screen/run screen1.jpg">
+
+<img style="display: inline-block;" width="400" src="run screen/run screen2.jpg">
+<img style="display: inline-block;" width="400" src="run screen/run screen1.jpg">
