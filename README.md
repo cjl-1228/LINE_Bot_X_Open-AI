@@ -10,7 +10,7 @@ When a message is received by the chatbot, it uses the OpenAI API to generate a 
   <img width="400" src="run screen/run screen4.jpg">
 </div>
 <div style="display:inline-block">
-  <img width="400" src="run screen/run screen5.jpg">
-  <img width="400" src="run screen/run screen6.jpg">
+  <img width="400" src="run screen/run screen5.png">
+  <img width="400" src="run screen/run screen6.png">
 </div>
 
