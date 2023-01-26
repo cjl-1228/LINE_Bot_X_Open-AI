@@ -7,7 +7,7 @@ When a message is received by the chatbot, it uses the OpenAI API to generate a 
 <h3>Run Screen </h3>
 <tr>
   <td>1</td>
-  <td><img width="400" src="run screen/run screen1.jpg"></td>
+  <td>2</td>
 </tr>
 <img width="400" src="run screen/run screen2.jpg">
 <img width="400" src="run screen/run screen1.jpg">
